@@ -1,0 +1,47 @@
+nav {
+    background-color: #1C6233;
+
+    height: 40px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navegacao{
+    width: 15% ;
+    height: 100%;
+
+    display: flex;
+    flex-direction: row-;
+    align-items: center;
+}
+
+.navegacao a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+    text-decoration: none;
+    margin-left: 17px;
+
+    background-color: azure;
+    width: 50%;
+    height: 30px;
+    border-radius: 10px;
+
+}
+
+a{
+    margin-left: 2px;
+}
+
+input{
+    margin-right: 1px;
+
+}
+
+button {
+    margin-right: 20px;
+}
