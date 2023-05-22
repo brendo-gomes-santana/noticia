@@ -27,7 +27,6 @@ function Nav(){
         <nav>
             <div className='navegacao'>
                 <Link to='/'>Home</Link>
-                <Link to='/categoria'>Categorias</Link>
             </div>
 
 
